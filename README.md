@@ -7,4 +7,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/abhimanyuxt/leet-code/tree/master/0176-second-highest-salary) |
+| [0595-big-countries](https://github.com/abhimanyuxt/leet-code/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
